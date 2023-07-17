@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XssVlad
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on simple application
+- 💞️ I’m looking to collaborate on simple applications
 - 📫 How to reach me vlad.tuta@gmail.com
 
 <!---
